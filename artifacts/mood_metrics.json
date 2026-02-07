@@ -1,0 +1,12 @@
+{
+  "val_accuracy": 0.6275862068965518,
+  "n_train": 578,
+  "n_val": 145,
+  "labels": [
+    "action",
+    "feel_good",
+    "mind_bending",
+    "romantic",
+    "spooky"
+  ]
+}
